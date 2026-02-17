@@ -15,7 +15,3 @@ This repository contains my **labs** and **projects** for Course 06: *Data Analy
   - Performs basic exploration and cleaning
   - Produces plots and exports CSV
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python projects/dummyjson-users-eda/project.py
